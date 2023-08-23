@@ -1,2 +1,0 @@
-# INNAR
-aula pratica
